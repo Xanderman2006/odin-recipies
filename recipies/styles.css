@@ -1,0 +1,21 @@
+* {
+    background-color: beige;
+}
+
+img {
+    height: auto;
+    width: 25em;
+}
+
+.ingredients {
+    background-color: lightgray;
+}
+
+ul {
+    background-color: inherit;
+}
+
+li {
+    background-color: inherit;
+}
+
